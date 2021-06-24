@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeb8euhnQN0L6RUxS0uk/b4fE9yudos4K2qARWP8zq3LYQ8TSAH9g1sb4HJgBAa3QELKq8O7ty8bNyXeaKBPkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrateur\\Desktop\\HerokuContainer\\Colors.API\\Colors.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.0\\swashbuckle.aspnetcore.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.0\\swashbuckle.aspnetcore.swagger.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.0\\swashbuckle.aspnetcore.swaggergen.6.1.0.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.0\\swashbuckle.aspnetcore.swaggerui.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
